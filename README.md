@@ -1,2 +1,2 @@
 # KPI-Project-File
-File for KPI excel dashboard
+Excel file that allows Oracle Fusion AP users to track the due dates of upcoming invoices.
